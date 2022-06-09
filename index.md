@@ -20,7 +20,7 @@
       
 
         
-        <h1>Serviços de armazenamento e análise de dados em computação em nuvem</h1>
+        
       
         <p><b>Quando falamos de computação em nuvem um dos serviços mais utilizados e disponibilizados por grandes empresas nesse setor é o de armazenamento de dados em nuvem, AWS, Dropbox, Icloud, Google Drive, etc são alguns dos serviços mais famosos desse estilo.</b></p>
       
