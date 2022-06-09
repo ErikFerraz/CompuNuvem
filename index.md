@@ -34,7 +34,7 @@
       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
          
          
-     <img src="https://i.ibb.co/Ydq0dMt/Novo-Projeto.png](https://www.oneit.com.br/wp-content/uploads/2020/01/computacao-em-nuvem.jpg" />
+     <img src="https://www.oneit.com.br/wp-content/uploads/2020/01/computacao-em-nuvem.jpg" />
       
       
     </section>
@@ -50,86 +50,14 @@
     
     <section class="serviços">
     
-    <div class="center"> 
-    <div class="w25 left box-serviços">
      
-               <ul>
-                   <li><a href="">Meio Ambiente</a></li>
-                   <li><a href="">Defesa Civil</a></li>
-                   <li><a href="">Segurança</a></li>
-                   <li><a href="">Cultura e Turismo</a></li>
-                   <li><a href="">Obras</a></li>
-               </ul>        
     
-     </div><!--box-serviços-->
-     
-     <div class="w25 left box-serviços">
-   
-               <ul>
-                   <li><a href="">Desenv. Econômico</a></li>
-                   <li><a href="">Administração Pública</a></li>
-                   <li><a href="">Assistência Social</a></li>
-                   <li><a href="">indicadores</a></li>
-                   <li><a href="">Projetos Estratégicos</a></li>
-               </ul>        
-     </div><!--box-serviços-->
-     
-     <div class="w25 left box-serviços">
-   
-               <ul>
-                   <li><a href="">Educação</a></li>
-                   <li><a href="">Transporte e Mobilidade</a></li>
-                   <li><a href="">Saúde</a></li>
-                   <li><a href="">Histórico de Imagens</a></li>
-                   <li><a href="">Mapoteca</a></li>
-               </ul>        
-     </div><!--box-serviços-->
-     <div class="w25 left box-serviços">
-   
-               <ul>
-                   <li><a href="">Esporte e Lazer</a></li>
-                   <li><a href="">Urbanismo e Habitação</a></li>
-                   <li><a href="">Infraestrutura</a></li>
-                   <li><a href="">Serviços Urbanos</a></li>
-                   <li><a href="">Fazenda</a></li>
-               </ul>        
-     </div><!--box-serviços-->
-     <div class="clear"></div>
-     
-    </div><!--center-->           
-    </section><!--serviços-->
-    
-      <section class="sobre-contatos">
-        <div class="center">   
-        <div class="w25 left logo box-contatos">
-        
-             <a href="https://portal.londrina.pr.gov.br/"><img src="https://portal.londrina.pr.gov.br/images/logo_pml_fb.png"></a>
-             
-        </div><!--box-contatos-->     
-                                      
-        <div class="w25 left box-sobre-siglon">
-             
-             <ul>
-               <li><a href=""><b>Sobre o Siglon</b></a></li>
-               <li><a href=""><b>Tutoriais</b></a></li>
-               <li><a href=""><b>Download de arquivos</b></a></li>                 </ul>
-        
-        </div><!--box-sobre-siglon-->
-       
-       <div class="w25 left box-telemail">
-       
-         <h1>Contato: siglon@londrina.pr.gov.br</h1>
-         <h1>Telefone: (43) 3372-4875</h1>
-       
-       </div><!--box-telemail-->
-       </div><!--center-->         
-   </section><!--section-sobre-contatos-->    
  
  
     <footer>
       
     <div class="rodape">
-          <p><i>Prefeitura Municipal de Londrina. Todos os direitos reservados</i></p>
+          <p><i>Erik Ferraz. Todos os direitos reservados</i></p>
     </div> 
       
     </footer>
