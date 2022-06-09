@@ -62,6 +62,4 @@
       
     </footer>
 
-  </body>
 
-</html>
