@@ -41,13 +41,5 @@
       
          
  
- 
-    <footer>
-      
-    <div class="rodape">
-          <p><i>Erik Ferraz. Todos os direitos reservados</i></p>
-    </div> 
-      
-    </footer>
 
 
