@@ -32,23 +32,12 @@
     </header>
     
     
+  <img src="https://www.oneit.com.br/wp-content/uploads/2020/01/computacao-em-nuvem.jpg" />
      
       
-      <a href="https://erikferraz.github.io/Page-2/"><h1>Como Funciona o Armazenamento em Nuvem?</h1></a>
+  <a href="https://erikferraz.github.io/Page-2/"><h1>Como Funciona o Armazenamento em Nuvem?</h1></a>
       
          
-         
-     <img src="https://www.oneit.com.br/wp-content/uploads/2020/01/computacao-em-nuvem.jpg" />
-      
-      
-    
-    
-      <a href="https://erikferraz.github.io/Page-2/">Teste</a>
-      
-      
-    
-     
-    
  
  
     <footer>
