@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 
   <head>
@@ -17,37 +17,10 @@
     
       <div class="overlaymenu">
       
-      <div class="logo left"><a href="https://portal.londrina.pr.gov.br/"><img src="https://portal.londrina.pr.gov.br/images/logo_pml_fb.png"></a></div>
-           <nav class="desktop left">
-               <ul>
-                   <li><a href="">Página inicial</a></li>
-                   <li><a href="">Galeria</a></li>
-                   <li><a href="">Mapa</a></li>
-                   <li><a href="">Cena</a></li>
-                   <li><a href="">Grupos</a></li>
-               </ul>
-          </nav>
-          <nav class="desktop2 right">
-               <ul>
-                   <li><a href="">Lupa</a></li>
-                   <li><a href="">Entrar</a></li>
-               </ul>
-          </nav>  
-         <nav class="mobile left">
-               <ul>
-                   <li><a href="">Página inicial</a></li>
-                   <li><a href="">Galeria</a></li>
-                   <li><a href="">Mapa</a></li>
-                   <li><a href="">Cena</a></li>
-                   <li><a href="">Grupos</a></li>
-               </ul>        
-         </nav>
-         <nav class="mobile2 right">
-               <ul>
-                   <li><a href="">Lupa</a></li>
-                   <li><a href="">Entrar</a></li>
-               </ul>
-          </nav>    
+        
+        <h1>Titulo</h1>
+      
+                
       </div>  
      <div class="clear"></div>
       
