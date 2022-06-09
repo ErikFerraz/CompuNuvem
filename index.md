@@ -24,7 +24,7 @@
       
       <p><b>Mas porque armazenar em nuvem?</b></p>
       
-      <p><b>Autoescalling, fácil replicação de dados (Backup), possibilidade de acessar os dados de qualquer dispositivo em qualquer lugar desde que esteja conectado a internet são os pontos mais fortes para que uma organização queira utilizar os serviços de armazenamento de dados em nuvem.</b></p>
+      <p><b>Autoescalling (aumento ou redução do uso dos recursos computacionais de forma automática auto regulada pelas necessidades da aplicação), fácil replicação de dados (Backup), possibilidade de acessar os dados de qualquer dispositivo em qualquer lugar desde que esteja conectado a internet são os pontos fortes para que uma organização queira utilizar os serviços de armazenamento de dados em nuvem.</b></p>
                 
         
      
