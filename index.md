@@ -20,6 +20,7 @@
         
         <h1>Titulo</h1>
       
+        <p><b> Texto </b></p>
                 
       </div>  
      <div class="clear"></div>
@@ -27,9 +28,8 @@
     </header>
     
     <section class="banner-principal">
-      <div class="overlay"></div>
-      <div class="overlay2"></div>
-      <div class="overlay3"><p><b> Serviços em Destaque do SIGLON </b></p></div>
+     
+      <div class="overlay"><p><b> Titulo Imagem </b></p></div>
          
          
      <img src="https://i.ibb.co/Ydq0dMt/Novo-Projeto.png" />
