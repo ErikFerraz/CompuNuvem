@@ -11,7 +11,7 @@
     <meta name="keywords" content="Computação em nuvem" >
   </head>
 
-  <body>
+  
   
     <header>
     
@@ -27,7 +27,7 @@
       
     </header>
     
-    <section class="banner-principal">
+    
      
       
       <h1>Titulo 2</h1>
@@ -37,18 +37,11 @@
      <img src="https://www.oneit.com.br/wp-content/uploads/2020/01/computacao-em-nuvem.jpg" />
       
       
-    </section>
     
-    <section class="aplicativos">
-      
-      <div class="overlay-aplicativos"></div>
-      <div class="overlay-aplicativos2"><p><b>Todos os Serviços</b></p></div>
+    
       <a href="">Teste</a>
       
       
-    </section><!--aplicativos-->
-    
-    <section class="serviços">
     
      
     
